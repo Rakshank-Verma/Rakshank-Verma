@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer · Backend &amp; Distributed Systems · Hyderabad, India</h3>
 
 <p align="center">
-  I build microservices and asynchronous systems with Node.js, GraphQL, Python and Go on AWS,<br>
+  I build distributed systems, microservices and asynchronous systems with Node.js, GraphQL, Python and Go on AWS,<br>
   and I started out in computer vision research at IIT Ropar.
 </p>
 
@@ -87,7 +87,6 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
 </div>
 
 <p align="center">
