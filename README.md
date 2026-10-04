@@ -24,9 +24,8 @@
 ## 🔭 What I'm up to
 
 - 💼 Software Engineer at **DeepAlgorithms Solutions** (since Mar 2026), building backend services with Flask, Celery and Oracle, deployed on AWS ECS.
-- 🧠 Digging into **distributed systems**: Redis leases, cache consistency, and race conditions (see my [cache-lease-demo](https://github.com/Rakshank-Verma/cache-lease-demo)).
-- 🐹 Getting deeper into **Go**.
-- 🧩 Still solving problems on [LeetCode](https://leetcode.com/u/rakshankverma/). Sometimes DSA is mastering me 😅
+- 🧠 Digging into **distributed systems**: Redis, Message Queues, Databases, Server & Client, Networking, HLD, LLD and race conditions are all my friends.
+- 🧩 Solving problems on [LeetCode](https://leetcode.com/u/rakshankverma/) and getting better in it everyday.
 
 ## 💼 Where I've worked
 
@@ -36,16 +35,10 @@
 | Software Engineer | Fulminous Software, Jaipur | Apr 2024 – Mar 2026 |
 | Computer Vision Research Intern | IIT Ropar | Jun 2023 – Jul 2023 |
 
-**Highlights**
-- ⚡ Cut a long-running data-fetching job from **4 hours to 10 minutes** with concurrent async calls run as Celery tasks.
-- 🚀 Reduced maximum API latency from **2s to 600ms** by moving REST to GraphQL.
-- 🧱 Designed microservices for payments, games and real-time communication (Node.js, GraphQL, MongoDB, PostgreSQL).
-
 ## 🛠 Projects
 
 | Project | What it is |
 |---|---|
-| [**cache-lease-demo**](https://github.com/Rakshank-Verma/cache-lease-demo) | Lease-protected Redis cache fills: reproduces the stale-write race and fixes it, with Docker, tests and CI. |
 | [**Adwait Theme**](https://marketplace.visualstudio.com/items?itemName=RakshankVerma.adwait-theme) | A VS Code theme (dark and light) built for night-owl coders. |
 | [**Background Switcher**](https://drive.google.com/file/d/1IVAxpEzEdL-DVNnQkRTO4QnaM9MXej6_/view?usp=drive_link) | Background replacement for images and video without a green screen (Python, PyTorch, OpenCV). |
 
